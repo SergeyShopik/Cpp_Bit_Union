@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\bitUnion\Source.cpp(172,2): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\HP\source\repos\bitUnion\Source.cpp(151,7): warning C4102: case1: неиспользованная метка
+C:\Users\HP\source\repos\bitUnion\Source.cpp(153,7): warning C4102: case2: неиспользованная метка
+C:\Users\HP\source\repos\bitUnion\Source.cpp(161,7): warning C4102: case3: неиспользованная метка
+C:\Users\HP\source\repos\bitUnion\Source.cpp(163,7): warning C4102: case4: неиспользованная метка
+C:\Users\HP\source\repos\bitUnion\Source.cpp(165,7): warning C4102: case5: неиспользованная метка
+C:\Users\HP\source\repos\bitUnion\Source.cpp(167,7): warning C4102: case6: неиспользованная метка
+  bitUnion.vcxproj -> C:\Users\HP\source\repos\bitUnion\Debug\bitUnion.exe

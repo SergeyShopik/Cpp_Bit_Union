@@ -1,0 +1,16 @@
+Brand: Tefal
+Model: A1
+Color: blue
+Max temperature: 50
+Min temperature: 100
+Power: 45
+Steam: 1
+
+Brand: Bosh
+Model: B1
+Color: white
+Max temperature: 30
+Min temperature: 150
+Power: 65
+Steam: 0
+
